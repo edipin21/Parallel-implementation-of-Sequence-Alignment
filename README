@@ -1,0 +1,4 @@
+to run the program open the terminal from the program directory, in the terminal write make to compile the program and make run to run the program the run time will be displayed in the terminal and the result will be in output.txt in the program directory.
+
+the program run with 4 processes.
+
