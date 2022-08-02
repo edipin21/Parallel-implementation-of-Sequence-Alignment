@@ -9,4 +9,4 @@ Each letter in the sequence represents DNA, RNA, or protein. Identification of r
 set of Sequences is extremely time consuming.
 Sequence Alignment of two sequences. The purpose of the project is to parallelize the basic algorithm
 to produce an efficient computation within MPI, OpenMP and CUDA environment.
-This project deals with a simplified version of
+
